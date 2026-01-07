@@ -11,3 +11,4 @@ Model Evaluation: The trained classifier is evaluated on a separate test set to 
 
 Model Persistence: The best performing classifier is serialized using Python's pickle module and saved as model.p for future use.
 
+Link for Data : https://drive.google.com/drive/folders/1jovc7oBMFV1DutrijBFDbEMIO7fWwh5o
